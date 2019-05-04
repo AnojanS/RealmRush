@@ -1,5 +1,5 @@
 # TowerDefense
-A 3D game built in Unity (2017.3.1) where users place towers on a grid to prevent enemy bots from reaching the user's base. Players can place a maximum of three towers by clicking on a legal spot on the grid. Towers can be moved at anytime and shoot at the closest enemy bot. Enemy bots take the shortest possible route to user's base using the pathfinding algorithm, Breadth First Search.   
+A 3D game built in Unity (2017.3.1) where users mut strategically place towers on a grid to prevent enemy bots from reaching the user's base. Players can only place a maximum of three towers by clicking on a legal spot on the grid and can relocate towers at anytime. Towers shoot at the closest enemy bot and enemy bots take the shortest possible route to user's base using the pathfinding algorithm, Breadth First Search.   
 
 Game consists of C# Classes, AI pathfinding (Breadth First Search), data structures (ring buffers, queues, stacks, dictionaries), interactive Unity components (tile map, particle system, waypoint circuit, audio listener, etc), a detailed 3D UI, customised particle effects, coroutines, etc.
 
