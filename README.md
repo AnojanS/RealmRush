@@ -11,4 +11,4 @@ Game consists of C# Classes, AI pathfinding (Breadth First Search), data structu
 4. Hit Play button 
 
 ## Demo
-<a href="https://imgflip.com/gif/3066gl"><img src="https://i.imgflip.com/3066gl.gif" width = "500" height = "250"/></a>
+<a href="https://imgflip.com/gif/3066gl"><img src="https://i.imgflip.com/3066gl.gif" width = "500" height = "400"/></a>
