@@ -1,9 +1,7 @@
 # TowerDefense
 <a href="https://imgflip.com/gif/3066gl"><img src="https://i.imgflip.com/3066gl.gif" width = "500" height = "250"/></a>
 
-A 3D game built in Unity (2017.3.1) where users must strategically place towers on a grid to prevent enemy bots from reaching the user's base. Players can only place a maximum of three towers by clicking on a legal spot on the grid and can relocate towers at anytime. Towers shoot at the closest enemy bot and enemy bots take the shortest possible route to user's base using the pathfinding algorithm, Breadth First Search.   
-
-Game consists of C# Classes, AI pathfinding (Breadth First Search), data structures (ring buffers, queues, stacks, dictionaries), interactive Unity components (tile map, particle system, waypoint circuit, audio listener, etc), a detailed 3D UI, customised particle effects, coroutines, etc.
+A 3D tower defense game built in Unity and programmed in C#. Users strategically place towers by clicking on a legal spot on the grid in order to prevent enemy bots from reaching the user's base. Players can only place a maximum of three towers on the grid and can relocate their towers at anytime. Towers shoot at the closest enemy bot whom themselves take the shortest possible route to the user's base using a breadth-first search algorithm.
 
 ## To Build and run
 
@@ -11,4 +9,3 @@ Game consists of C# Classes, AI pathfinding (Breadth First Search), data structu
 2. Clone/download repo
 3. Navigate to `Assets > Levels` and open any `.unity` file
 4. Hit 'Play' button 
-
